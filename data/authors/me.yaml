@@ -44,7 +44,7 @@ interests:
   - Hardware Design (PCB)
 
 education:
-  - degree: B.Sc. in Electronics, Robotics and Mechatronics Engineering
+  - degree: Electronics, Robotics and Mechatronics Engineering
     institution: University of Seville - ETSI # <-- ¡Cambia esto por tu universidad!
     start: '7-9-2022' # <-- Pon el año en el que empezaste
     end: Present
@@ -52,38 +52,20 @@ education:
 skills:
   - name: Programming & Software
     items:
-      - name: C/C++ (Microcontrollers)
-        description: ''
-        percent: 80
-        icon: code
-        icon_pack: fas
-      - name: Python & ROS
-        description: ''
-        percent: 75
-        icon: python
-        icon_pack: fab
-      - name: MATLAB / Simulink
-        description: ''
-        percent: 70
-        icon: chart-line
-        icon_pack: fas
+      - label: C/C++ (Microcontrollers)
+        level: 80
+      - label: Python & ROS
+        level: 75
+      - label: MATLAB / Simulink
+        level: 70
   - name: Hardware & Engineering
     items:
-      - name: PCB Design (KiCad/Altium)
-        description: ''
-        percent: 85
-        icon: microchip
-        icon_pack: fas
-      - name: Control Systems & Automation
-        description: ''
-        percent: 90
-        icon: cogs
-        icon_pack: fas
-      - name: 3D CAD (SolidWorks/Fusion360)
-        description: ''
-        percent: 65
-        icon: cubes
-        icon_pack: fas
+      - label: PCB Design (KiCad/Altium)
+        level: 85
+      - label: Control Systems & Automation
+        level: 90
+      - label: 3D CAD (SolidWorks/Fusion360)
+        level: 65
 
 languages:
   - name: Spanish
