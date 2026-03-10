@@ -53,19 +53,19 @@ skills:
   - name: Programming & Software
     items:
       - label: C/C++ (Microcontrollers)
-        level: 80
+        level: 4
       - label: Python & ROS
-        level: 75
+        level: 2
       - label: MATLAB / Simulink
-        level: 70
+        level: 4
   - name: Hardware & Engineering
     items:
       - label: PCB Design (KiCad/Altium)
-        level: 85
+        level: 2
       - label: Control Systems & Automation
-        level: 90
+        level: 4
       - label: 3D CAD (SolidWorks/Fusion360)
-        level: 65
+        level: 3
 
 languages:
   - name: Spanish
