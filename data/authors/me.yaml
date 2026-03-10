@@ -105,7 +105,7 @@ languages:
     level: 5
     label: Native
   - name: English
-    level: 3,5
+    level: 4
     label: Fluent
 
 awards:
